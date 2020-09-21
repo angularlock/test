@@ -1,0 +1,22 @@
+.title {
+    padding: 20px 0;
+}
+
+.title .text {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.sliderGroup {
+    padding: 40px 0;
+}
+
+.slider_text {
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.mat-slider-horizontal {
+  min-width: 100%;
+}
+
